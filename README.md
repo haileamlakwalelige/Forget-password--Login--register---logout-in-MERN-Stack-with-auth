@@ -84,4 +84,4 @@ To run the project locally, follow these steps:
 
 ---
 
-Feel free to expand upon this template with more details specific to your project, such as installation instructions, deployment guides, or additional features and functionality. Adjust the URLs, folder names, and descriptions based on your actual project setup.
+
