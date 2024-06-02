@@ -1,6 +1,4 @@
-Certainly! Here's a basic `README.md` template for your MERN stack project based on the provided information:
-
----
+----
 
 # Forget Password, Login, Register and Logout with auth MERN Stack Project
 
